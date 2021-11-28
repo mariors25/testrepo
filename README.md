@@ -1,2 +1,2 @@
 # testrepo
-#this code doens't do a thing
+#this code dosn't do a thing
